@@ -11,8 +11,7 @@ have shown increasing trend. Although the growth of increasing trend of
 property distribution was slow in the year 2016 but it showed high growth rate 
 till the end of year 2018.
 
-## 2. Number of rooms across different property type available for various average 
-   price rate has been shown.
+## 2. Number of rooms across different property type available for various average price rate has been shown.
 
 The distribution of property with multiple number of rooms across various price 
 rate shows an increase in price for increase in number of rooms. All the property type 
